@@ -5,43 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="057ce596-249f-45b6-8852-d08baccb9fc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/Table_multi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/basic01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/evenodd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/Abstraction02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/Task/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/Task/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/ARRAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/Coffeemachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/QUEUE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/vector01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/Encapsulation/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/INHERITENCE/Multilevel/Brother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/INHERITENCE/Multilevel/son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/INHERITENCE/Single/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/INHERITENCE/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/INHERITENCE/Vechicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/Task05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04/Task/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rahulpawar-dev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rahulpawar-dev/JAVA.git",
+    "accountId": "55c1b8e1-8ddb-401e-b299-d09342ba0ee1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -99,7 +77,7 @@
     "Application.vector01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Rahul Pawar/Desktop/untitled1/src/Main.java",
     "settings.editor.selected.configurable": "preferences.keymap"
